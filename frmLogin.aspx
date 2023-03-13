@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="frmLogin.aspx.vb" Inherits="Login" %>
 
 <!DOCTYPE html>
-<%--Test 01--%>
+
 <html>
 <head runat="server">
     <meta charset="utf-8" />
